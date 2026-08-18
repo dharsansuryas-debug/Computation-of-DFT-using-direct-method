@@ -72,8 +72,7 @@ title('Phase spectrum')
 
 ### CALCULATIONS:
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bdc4ec1d-1091-43a2-b119-c6d8aa9d75e6" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f98c915-b5dd-4d8c-803b-d27a9f6d1294" />
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0c7a95c-653a-4dfc-b634-f243026d00bf" />
+
 ### SAMPLE OUTPUT:
 <img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/78a8f01a-213a-4b24-acf3-2a3108209e5c" />
 
