@@ -6,6 +6,7 @@ To perform and verify DFT using direct method by SCILAB.
 PC installed with SCILAB
 ## PROGRAM 
 ### DFT DIRECT METHOD
+
 clc;
 
 clear;
