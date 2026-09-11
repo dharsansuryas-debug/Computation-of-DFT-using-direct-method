@@ -74,7 +74,8 @@ title('Phase spectrum')
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/bdc4ec1d-1091-43a2-b119-c6d8aa9d75e6" />
 
 ### SAMPLE OUTPUT:
-<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/78a8f01a-213a-4b24-acf3-2a3108209e5c" />
+<img width="932" height="1600" alt="image" src="https://github.com/user-attachments/assets/631ab537-9a35-4c14-9c00-d08c88a5b81f" />
+
 
 
 ## RESULT:
